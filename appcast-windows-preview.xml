@@ -3,12 +3,12 @@
   <channel>
     <title>Kursor for Windows, previews</title>
     <item>
-      <title>Preview 1</title>
-      <pubDate>Tue, 17 Nov 2026 13:38:25 -0600</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>Preview 1</sparkle:shortVersionString>
+      <title>Preview 2</title>
+      <pubDate>Tue, 17 Nov 2026 17:18:07 -0600</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>Preview 2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.0.22000</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/KodieKonnect/kursor-releases/releases/download/windows-preview-1/Kursor-Setup-Preview-1.exe" type="application/octet-stream" sparkle:edSignature="sV546StW5DCwjwa1M2lX7AsGLQg3QdRwIOOXbaBMuoa6o/vr4nsMJRwSd5RS8414cmoVeCBvFq1UnNvIvQYtDA==" length="54776668" />
+      <enclosure url="https://github.com/KodieKonnect/kursor-releases/releases/download/windows-preview-2/Kursor-Setup-Preview-2.exe" type="application/octet-stream" sparkle:edSignature="0Echis5QuzNzCdjjmwY7vtW/d5yBxdkpfwTin1g9A3xV572B63dOK/XwBpqtFvFaufTEZnbd6U7Z7qLaRBEJCw==" length="55299543" />
     </item>
   </channel>
 </rss>
