@@ -3,12 +3,12 @@
   <channel>
     <title>Kursor</title>
     <item>
-      <title>Version 0.14.1</title>
-      <pubDate>Tue, 17 Nov 2026 20:10:49 -0600</pubDate>
-      <sparkle:version>182</sparkle:version>
-      <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
+      <title>Version 0.15.0</title>
+      <pubDate>Wed, 18 Nov 2026 14:00:56 -0600</pubDate>
+      <sparkle:version>369</sparkle:version>
+      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/KodieKonnect/kursor-releases/releases/download/v0.14.1/Kursor-0.14.1.dmg" type="application/octet-stream" sparkle:edSignature="mg8pSu8tjamRJD55fUAIV5aD/vjYuh8ELSYWiy5/pMd5SV9cVwv+cbjJR0Agvt94Y3xh3rVRAB2bxMoA0KdqAQ==" length="17196112" />
+      <enclosure url="https://github.com/KodieKonnect/kursor-releases/releases/download/v0.15.0/Kursor-0.15.0.dmg" type="application/octet-stream" sparkle:edSignature="3q1gcYlONIQnue84w2b5zFkjW5ae9ZHaZiBZG/I4rHvgakBv1ADwAI0PybyuAl+FhDLbFVCgsOVKLm5xnvbwBw==" length="17484777" />
     </item>
   </channel>
 </rss>
